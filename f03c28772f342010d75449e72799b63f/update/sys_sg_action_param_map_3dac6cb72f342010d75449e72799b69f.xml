@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Incident)">f5ac6cb72f342010d75449e72799b68f</button>
+        <item_parameter display_value="Incident short_description">7dac6cb72f342010d75449e72799b68c</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-07 05:00:10</sys_created_on>
+        <sys_id>3dac6cb72f342010d75449e72799b69f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7dac6cb72f342010d75449e72799b68c</sys_name>
+        <sys_package display_value="testAPP" source="x_90737_testapp">f03c28772f342010d75449e72799b63f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testAPP">f03c28772f342010d75449e72799b63f</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_3dac6cb72f342010d75449e72799b69f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-07 05:00:10</sys_updated_on>
+        <ui_parameter display_value="Short description">3dac6cb72f342010d75449e72799b69d</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

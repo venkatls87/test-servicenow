@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <name>Incidents</name>
+        <source_table>incident</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-07 04:59:37</sys_created_on>
+        <sys_id>258c28b72f342010d75449e72799b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incidents</sys_name>
+        <sys_package display_value="testAPP" source="x_90737_testapp">f03c28772f342010d75449e72799b63f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testAPP">f03c28772f342010d75449e72799b63f</sys_scope>
+        <sys_update_name>sys_search_source_258c28b72f342010d75449e72799b6cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-07 04:59:37</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=258c28b72f342010d75449e72799b6cc"/>
+</record_update>
